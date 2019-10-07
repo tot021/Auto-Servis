@@ -1,0 +1,93 @@
+K:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe
+K:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.pdb
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Properties.Resources.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.GenerateResource.Cache
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.exe
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.pdb
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_vozilo.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe.config
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_vozila.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Auto_servis.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csprojResolveAssemblyReference.cache
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_korisnika.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_vozila.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_uslugu.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_korisnika.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika_dvoklik.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_radni_nalog.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_radni_nalog.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Vidi_podatke.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_grupu.resources
+K:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_grupu.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe.config
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.exe
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.pdb
+E:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe
+E:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.pdb
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csprojResolveAssemblyReference.cache
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_grupu.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_korisnika.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_radni_nalog.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_uslugu.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_vozilo.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Auto_servis.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_grupu.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika_dvoklik.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_radni_nalog.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_vozila.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Properties.Resources.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_vozila.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_korisnika.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Vidi_podatke.resources
+E:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.GenerateResource.Cache
+D:\qTorrent\programiranje\C# -R42\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe.config
+D:\qTorrent\programiranje\C# -R42\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.exe
+D:\qTorrent\programiranje\C# -R42\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.pdb
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe.config
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.pdb
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csprojAssemblyReference.cache
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_grupu.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_korisnika.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_radni_nalog.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_uslugu.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_vozilo.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Auto_servis.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_grupu.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika_dvoklik.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_radni_nalog.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_vozila.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Properties.Resources.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_vozila.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_korisnika.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Vidi_podatke.resources
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.GenerateResource.cache
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.CoreCompileInputs.cache
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.exe
+C:\Users\Kristian\Desktop\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.pdb
+D:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe.config
+D:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.exe
+D:\Maturski-Auto servis\Auto servis\Auto servis\bin\Debug\Auto servis.pdb
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csprojAssemblyReference.cache
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_grupu.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_korisnika.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_radni_nalog.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_uslugu.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Dodaj_vozilo.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Auto_servis.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_grupu.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_korisnika_dvoklik.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_radni_nalog.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Izmeni_vozila.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Properties.Resources.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_vozila.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Trazi_korisnika.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto_servis.Vidi_podatke.resources
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.GenerateResource.cache
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.csproj.CoreCompileInputs.cache
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.exe
+D:\Maturski-Auto servis\Auto servis\Auto servis\obj\x86\Debug\Auto servis.pdb

@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02FA99C5-5163-4D3C-93FB-5290B8025E4F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Auto_servis</RootNamespace>
+    <AssemblyName>Auto servis</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dodaj_grupu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj_grupu.Designer.cs">
+      <DependentUpon>Dodaj_grupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dodaj_korisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj_korisnika.Designer.cs">
+      <DependentUpon>Dodaj_korisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dodaj_radni_nalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj_radni_nalog.Designer.cs">
+      <DependentUpon>Dodaj_radni_nalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dodaj_uslugu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj_uslugu.Designer.cs">
+      <DependentUpon>Dodaj_uslugu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dodaj_vozilo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dodaj_vozilo.Designer.cs">
+      <DependentUpon>Dodaj_vozilo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Auto_servis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auto_servis.Designer.cs">
+      <DependentUpon>Auto_servis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izmeni_grupu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izmeni_grupu.Designer.cs">
+      <DependentUpon>Izmeni_grupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izmeni_korisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izmeni_korisnika.Designer.cs">
+      <DependentUpon>Izmeni_korisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izmeni_korisnika_dvoklik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izmeni_korisnika_dvoklik.Designer.cs">
+      <DependentUpon>Izmeni_korisnika_dvoklik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izmeni_radni_nalog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izmeni_radni_nalog.Designer.cs">
+      <DependentUpon>Izmeni_radni_nalog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Izmeni_vozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Izmeni_vozila.Designer.cs">
+      <DependentUpon>Izmeni_vozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Konekcija.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Trazi vozila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trazi vozila.Designer.cs">
+      <DependentUpon>Trazi vozila.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trazi_korisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trazi_korisnika.Designer.cs">
+      <DependentUpon>Trazi_korisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vidi_podatke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vidi_podatke.Designer.cs">
+      <DependentUpon>Vidi_podatke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VozilaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VozilaDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Dodaj_grupu.resx">
+      <DependentUpon>Dodaj_grupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dodaj_korisnika.resx">
+      <DependentUpon>Dodaj_korisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dodaj_radni_nalog.resx">
+      <DependentUpon>Dodaj_radni_nalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dodaj_uslugu.resx">
+      <DependentUpon>Dodaj_uslugu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dodaj_vozilo.resx">
+      <DependentUpon>Dodaj_vozilo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auto_servis.resx">
+      <DependentUpon>Auto_servis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izmeni_grupu.resx">
+      <DependentUpon>Izmeni_grupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izmeni_korisnika.resx">
+      <DependentUpon>Izmeni_korisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izmeni_korisnika_dvoklik.resx">
+      <DependentUpon>Izmeni_korisnika_dvoklik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izmeni_radni_nalog.resx">
+      <DependentUpon>Izmeni_radni_nalog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Izmeni_vozila.resx">
+      <DependentUpon>Izmeni_vozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Trazi vozila.resx">
+      <DependentUpon>Trazi vozila.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trazi_korisnika.resx">
+      <DependentUpon>Trazi_korisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vidi_podatke.resx">
+      <DependentUpon>Vidi_podatke.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VozilaDataSet.xsc">
+      <DependentUpon>VozilaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VozilaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VozilaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VozilaDataSet.xss">
+      <DependentUpon>VozilaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
